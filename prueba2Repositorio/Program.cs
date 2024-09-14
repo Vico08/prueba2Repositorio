@@ -4,7 +4,7 @@
     {
 
         double seg1, seg2, seg3, suma;
-        bool isTriangle;
+        bool isTriangule;
         string msj;
 
         Console.Write("INgrese el primer segmento: ");
