@@ -1,7 +1,7 @@
-﻿internal class Program
+﻿public class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("PRUEBA 2 DE CREACION DE REPOSITORIO!");
+        Console.WriteLine("PRUEBA DE CREACION DE BRANCH!");
     }
 }
